@@ -33,7 +33,7 @@ export function GuideNote({ children, className = "" }: {
           image too would just repeat it to a screen reader. object-top frames
           the turban and face rather than cropping to the waistcoat. */}
       <img
-        src="/babosa-guide.png"
+        src="/mentor/babosa-guide.png"
         alt=""
         aria-hidden="true"
         className="h-12 w-12 shrink-0 rounded-xl bg-white object-cover object-top"

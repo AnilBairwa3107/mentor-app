@@ -18,7 +18,7 @@
 export function BrandMark({ className = "h-9" }: { className?: string }) {
   return (
     <img
-      src="/seekhonomics-owl.png"
+      src="/mentor/seekhonomics-owl.png"
       alt="Seekhonomics"
       // Sized by HEIGHT with width auto: the owl is 262x376, noticeably taller
       // than wide, so a square box would letterbox it and leave the mark

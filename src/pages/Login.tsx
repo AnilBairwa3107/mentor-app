@@ -369,7 +369,7 @@ export function Login() {
           <aside className="mt-6 flex items-center gap-3.5 rounded-[20px] border border-[#e7e4dc] bg-[#eaf0ff]/60 p-3.5">
             {/* Tall transparent portrait: object-top frames the turban and face
                 rather than cropping to his waistcoat. */}
-            <img src="/babosa-guide.png" alt="" aria-hidden="true"
+            <img src="/mentor/babosa-guide.png" alt="" aria-hidden="true"
                  className="h-16 w-16 shrink-0 rounded-[14px] bg-white object-cover object-top" />
             <p className="text-sm text-[#17252b]">
               <strong className="block">Babo Sa!</strong>

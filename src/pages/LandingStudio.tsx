@@ -153,7 +153,7 @@ export function LandingStudio() {
                 here. */}
             <aside className="mt-7 flex items-start gap-3.5 rounded-[20px] border border-[#e7e4dc] bg-[#fbfaf7] p-4">
               <img
-                src="/babosa-guide.png"
+                src="/mentor/babosa-guide.png"
                 alt=""
                 aria-hidden="true"
                 className="h-14 w-14 shrink-0 rounded-[14px] bg-white object-cover object-top"
